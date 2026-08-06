@@ -6,7 +6,7 @@
 
 <!-- Social Links -->
 <p align="center">
-    <a href="https://www.linkedin.com/in/alimemonn/" target= "_blank">
+    <a href="https://www.linkedin.com/in/alimemonn/" target= "_main">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn">
     </a>&nbsp;&nbsp;
     <a href="https://x.com/alimemonnnn/">
