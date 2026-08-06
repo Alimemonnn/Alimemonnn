@@ -6,20 +6,20 @@
 
 <!-- Social Links -->
 <p align="center">
-    <a href="https://www.linkedin.com/in/alimemonn/" target= "_main">
+    <a href="https://www.linkedin.com/in/alimemonn/" target= "_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn">
     </a>&nbsp;&nbsp;
-    <a href="https://x.com/alimemonnnn/">
+    <a href="https://x.com/alimemonnnn/" target= "_blank">
         <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="X / Twitter">
     </a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/alimemonnn/">
+    <a href="https://www.facebook.com/alimemonnn/" target= "_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook">
     </a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/ali_memonnn/">
+    <a href="https://www.instagram.com/ali_memonnn/" target= "_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram">
     </a>&nbsp;&nbsp;
-    <a href="https://cyberaware-mauve.vercel.app/">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="Portfolio Website">
+    <a href="https://cyberaware-mauve.vercel.app/" target= "_blank">
+        <img src="https://img.shields.io/badge/HackathonProject-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="Portfolio Website">
     </a>
 </p>
 
