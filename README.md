@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/Alimemonnn">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Muhammad+Ali!;Full+Stack+Developer;Open+Source+Enthusiast&font=Fira%20Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" />
+        <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Muhammad+Ali!;Full+Stack+Developer;Open+Source+Enthusiast&font=Fira%20Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" alt="Typing introduction" />
     </a>
 </p>
 
@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn">
     </a>&nbsp;&nbsp;
     <a href="https://x.com/alimemonnnn/">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="X / Twitter">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="35" alt="X">
     </a>&nbsp;&nbsp;
     <a href="https://www.facebook.com/alimemonnn/">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="Facebook">
@@ -19,12 +19,26 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram">
     </a>&nbsp;&nbsp;
     <a href="https://cyberaware-mauve.vercel.app/">
-        <img src="https://img.shields.io/badge/Hakathon_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="Hackathon CyberAware">
+        <img src="https://img.shields.io/badge/Hackathon_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="CyberAware Hackathon Website">
     </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
 
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm **Muhammad Ali**, an aspiring Full Stack Developer and technology enthusiast from Pakistan. I enjoy building practical software solutions, exploring modern technologies, and developing projects that solve real-world problems.
+
+My interests include web development, desktop applications, cybersecurity, artificial intelligence, and open-source collaboration. I am continuously improving my programming skills by working on academic, personal, and hackathon projects.
+
+- 💻 Aspiring Full Stack Developer
+- 🔐 Interested in cybersecurity and digital safety
+- 🌱 Currently improving my skills in React, Spring Boot, Python, and AI
+- 🚀 Passionate about building practical and user-friendly applications
+- 🤝 Open to collaboration, internships, and learning opportunities
+- 📫 Feel free to connect with me through my social links above
 
 ---
 
@@ -34,19 +48,18 @@
 
 | 🏆 Project | 📋 Description | 🛠️ Tech Stack | 🔗 Links |
 |:---:|:---|:---:|:---:|
-| **CyberAware** | An interactive cybersecurity awareness platform built at a hackathon. Educates users on online threats, phishing detection, and digital safety best practices. | `HTML` `CSS` `JS` `Python` | [![Live](https://img.shields.io/badge/Live-4F8EF7?style=flat-square&logo=vercel&logoColor=white)](https://cyberaware-mauve.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alimemonnn/CyberAware) |
-| **Website Blocker System** | A cross-platform productivity tool built during PITP at Sukkur IBA. Blocks distracting sites at system level via the hosts file with SHA-256 password protection and a dark-themed Tkinter UI. | `Python` `Tkinter` `SHA-256` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alimemonnn/Website-Blocker-System) |
-| **Campus Bite** | A food delivery platform for university hostlers to access home-cooked meals. Built as a semester final project in Java with a focus on student convenience. | `Java` `OOP` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alimemonnn/Campus_Bite) |
-| **University Management System** | A console-based C++ system to manage student and employee records. Supports add, delete, update operations with persistent CSV file storage. | `C++` `CSV` `File I/O` | `Console App` |
+| **CyberAware** | An interactive cybersecurity awareness platform built during a hackathon. It educates users about online threats, phishing detection, and digital safety best practices. | `HTML` `CSS` `JavaScript` `Python` | [![Live](https://img.shields.io/badge/Live-4F8EF7?style=flat-square&logo=vercel&logoColor=white)](https://cyberaware-mauve.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alimemonnn/CyberAware) |
+| **Website Blocker System** | A cross-platform productivity tool built during PITP at Sukkur IBA. It blocks distracting websites at the system level through the hosts file and includes SHA-256 password protection with a dark-themed Tkinter interface. | `Python` `Tkinter` `SHA-256` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alimemonnn/Website-Blocker-System) |
+| **Campus Bite** | A food delivery platform designed for university students and hostel residents to access home-cooked meals conveniently. It was developed as a semester final project using Java and object-oriented programming. | `Java` `OOP` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alimemonnn/Campus_Bite) |
+| **University Management System** | A console-based C++ application for managing student and employee records. It supports adding, deleting, and updating records with persistent CSV file storage. | `C++` `CSV` `File I/O` | `Console Application` |
 
 </div>
 
 ---
 
-
 ## 💻 Tech Stack
 
-**Languages:**
+### Programming Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -57,7 +70,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Libraries & Frameworks:**
+### Libraries and Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -68,7 +81,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Tools & Platforms:**
+### Tools and Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -81,23 +94,35 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-**Databases:**
+### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="left">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Alimemonnn&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a"/><br><br>
-  <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Alimemonnn&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Muhammad%20Ali's%20Most%20Used%20Languages&text_color=e8df7a"/>
-  <img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Alimemonnn&show_icons=true&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a"/><br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alimemonnn&theme=omni" width="33%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alimemonnn&theme=omni" width="33%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alimemonnn&theme=omni&utcOffset=+5" width="33%"/><br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alimemonnn&theme=omni" width="100%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alimemonnn&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a"/>
+<p align="center">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Alimemonnn&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a" alt="GitHub streak statistics">
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Alimemonnn&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Muhammad%20Ali's%20Most%20Used%20Languages&text_color=e8df7a" width=" Forty percent" alt="Most used languages">
+    <img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Alimemonnn&show_icons=true&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a" alt="GitHub statistics">
+</p>
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alimemonnn&theme=omni" width="32%" alt="Repositories per language">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alimemonnn&theme=omni" width="32%" alt="Most used commit language">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alimemonnn&theme=omni&utcOffset=+5" width="32%" alt="Productive time">
+</p>
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alimemonnn&theme=omni" width="100%" alt="GitHub profile details">
+</p>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alimemonnn&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a" width="100%" alt="GitHub activity graph">
 </p>
 
 ---
@@ -105,7 +130,26 @@
 ## 🐍 My Contributions Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alimemonnn/Alimemonnn/snake/github-snake-dark.svg" width="100%" alt="Snake animation"/>
+    <img src="https://raw.githubusercontent.com/Alimemonnn/Alimemonnn/snake/github-snake-dark.svg" width="100%" alt="Contribution snake animation">
+</p>
+
+---
+
+## 📚 Education
+
+- **Computer Science Student**
+- Continuously learning software development, cybersecurity, artificial intelligence, and modern application development.
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+    <a href="https://github.com/Alimemonnn">GitHub</a> •
+    <a href="https://www.linkedin.com/in/alimemonn/">LinkedIn</a> •
+    <a href="https://x.com/alimemonnnn/">X</a> •
+    <a href="https://www.facebook.com/alimemonnn/">Facebook</a> •
+    <a href="https://www.instagram.com/ali_memonnn/">Instagram</a>
 </p>
 
 ---
@@ -119,10 +163,10 @@
 @@      _L_L_                                          @@
 @@   ❮\/__-__\/❯  A habit missed once is a mistake,    @@
 @@   ❮(|~o.o~|)❯    A habit missed twice is a start    @@
-@@   ❮/ \`-'/ \❯          of new habit!                @@
+@@   ❮/ \`-'/ \❯          of a new habit!              @@
 @@     _/`U'\_                                         @@
 @@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
 @@   \ |  ,  | /    '----------------------------'     @@
 @@    \|=====|/                                        @@
 @@     |_.^._|                                         @@
@@ -134,12 +178,12 @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
-<br/>
+<br>
 
-*"The expert in anything was once a beginner."*
+*“The expert in anything was once a beginner.”*
 
-<br/>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:4F8EF7,100:1a1b27&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:4F8EF7,100:1a1b27&height=100&section=footer" width="100%" alt="Footer decoration">
 
 </div>
