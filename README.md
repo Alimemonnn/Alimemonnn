@@ -25,7 +25,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
 
----
 
 ## 👨‍💻 About Me
 
@@ -33,14 +32,15 @@ Hi, I'm **Muhammad Ali**, an aspiring Full Stack Developer and technology enthus
 
 My interests include web development, desktop applications, cybersecurity, artificial intelligence, and open-source collaboration. I am continuously improving my programming skills by working on academic, personal, and hackathon projects.
 
-- 💻 Aspiring Full Stack Developer
+- 💻 Aspiring Artificial Student & Full Stack Developer
 - 🔐 Interested in cybersecurity and digital safety
 - 🌱 Currently improving my skills in React, Spring Boot, Python, and AI
 - 🚀 Passionate about building practical and user-friendly applications
 - 🤝 Open to collaboration, internships, and learning opportunities
 - 📫 Feel free to connect with me through my social links above
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
+
 
 ## 🚀 Featured Projects
 
@@ -55,9 +55,9 @@ My interests include web development, desktop applications, cybersecurity, artif
 
 </div>
 
----
 
 ## 💻 Tech Stack
+
 
 ### Programming Languages
 
@@ -137,8 +137,8 @@ My interests include web development, desktop applications, cybersecurity, artif
 
 ## 📚 Education
 
-- **Computer Science Student**
-- Continuously learning software development, cybersecurity, artificial intelligence, and modern application development.
+- **Artificial Intelligence Student**
+- Continuously learning software development, cybersecurity, Artificial Intelligence, and modern application development.
 
 ---
 
