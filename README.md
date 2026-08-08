@@ -25,7 +25,24 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
+
 ---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| 🏆 Project | 📋 Description | 🛠️ Tech Stack | 🔗 Links |
+|:---:|:---|:---:|:---:|
+| **CyberAware** | An interactive cybersecurity awareness platform built at a hackathon. Educates users on online threats, phishing detection, and digital safety best practices. | `HTML` `CSS` `JS` `Python` | [![Live](https://img.shields.io/badge/Live-4F8EF7?style=flat-square&logo=vercel&logoColor=white)](https://cyberaware-mauve.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alimemonnn/CyberAware) |
+| **Website Blocker System** | A cross-platform productivity tool built during PITP at Sukkur IBA. Blocks distracting sites at system level via the hosts file with SHA-256 password protection and a dark-themed Tkinter UI. | `Python` `Tkinter` `SHA-256` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alimemonnn/Website-Blocker-System) |
+| **Campus Bite** | A food delivery platform for university hostlers to access home-cooked meals. Built as a semester final project in Java with a focus on student convenience. | `Java` `OOP` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alimemonnn/Campus_Bite) |
+| **University Management System** | A console-based C++ system to manage student and employee records. Supports add, delete, update operations with persistent CSV file storage. | `C++` `CSV` `File I/O` | `Console App` |
+
+</div>
+
+---
+
 
 ## 💻 Tech Stack
 
@@ -117,10 +134,12 @@
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 
+<br/>
+
+*"The expert in anything was once a beginner."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,50:4F8EF7,100:1a1b27&height=100&section=footer"/>
+
 </div>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alimemonnn&color=ff79c6&style=for-the-badge" alt="Profile Views"/>
-</p>
