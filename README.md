@@ -56,6 +56,9 @@ My interests include web development, desktop applications, cybersecurity, artif
 </div>
 
 
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
+
 ## 💻 Tech Stack
 
 
@@ -98,7 +101,9 @@ My interests include web development, desktop applications, cybersecurity, artif
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
 
 ## 📊 GitHub Statistics
 
@@ -125,7 +130,9 @@ My interests include web development, desktop applications, cybersecurity, artif
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alimemonnn&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a" width="100%" alt="GitHub activity graph">
 </p>
 
----
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
 
 ## 🐍 My Contributions Snake
 
@@ -133,14 +140,15 @@ My interests include web development, desktop applications, cybersecurity, artif
     <img src="https://raw.githubusercontent.com/Alimemonnn/Alimemonnn/snake/github-snake-dark.svg" width="100%" alt="Contribution snake animation">
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
 
 ## 📚 Education
 
 - **Artificial Intelligence Student**
 - Continuously learning software development, cybersecurity, Artificial Intelligence, and modern application development.
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
+
 
 ## 📫 Connect With Me
 
@@ -152,7 +160,7 @@ My interests include web development, desktop applications, cybersecurity, artif
     <a href="https://www.instagram.com/ali_memonnn/">Instagram</a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
 
 <div align="center">
 
