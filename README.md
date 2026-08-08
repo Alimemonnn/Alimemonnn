@@ -19,7 +19,7 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram">
     </a>&nbsp;&nbsp;
     <a href="https://cyberaware-mauve.vercel.app/">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="Hackathon CyberAware">
+        <img src="https://img.shields.io/badge/Hakathon_Website-000000?style=for-the-badge&logo=vercel&logoColor=white" height="35" alt="Hackathon CyberAware">
     </a>
 </p>
 
