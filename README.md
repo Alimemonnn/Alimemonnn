@@ -28,9 +28,10 @@
 
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-Hi, I'm **Muhammad Ali** — a Computer Science student and aspiring Full Stack Developer from Pakistan. I love building practical software that solves real problems, from web apps to desktop tools. And yes, I occasionally break things in the name of cybersecurity research.
+Hi, I'm **Muhammad Ali** — a Artificial Intelligence student and aspiring Full Stack Developer. I love building practical software that solves real problems, from web apps to desktop tools. And yes, I occasionally break things in the name of cybersecurity research.
+My interests include web development, desktop applications, cybersecurity, artificial intelligence, and open-source collaboration. I am continuously improving my programming skills by working on academic, personal, and hackathon projects.
 
-- 💻 **CS Student** at [Your University Name]
+- 💻 **AI Student** at [Aror University of Art, Architecture Desgin & Heritage]
 - 🌱 Currently leveling up in **React**, **Spring Boot**, **Python**, and **AI**
 - 🔐 Passionate about **cybersecurity** and digital safety
 - 🚀 Building practical, user-friendly applications
@@ -39,25 +40,7 @@ Hi, I'm **Muhammad Ali** — a Computer Science student and aspiring Full Stack 
 
 <br clear="right"/>
 
----
 
-
-
-## 🧠 About Me
-
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-
-Hi, I'm **Muhammad Ali**, an aspiring Full Stack Developer and technology enthusiast from Pakistan. I enjoy building practical software solutions, exploring modern technologies, and developing projects that solve real-world problems.
-
-My interests include web development, desktop applications, cybersecurity, artificial intelligence, and open-source collaboration. I am continuously improving my programming skills by working on academic, personal, and hackathon projects.
-
-- 💻 Aspiring Artificial Student & Full Stack Developer
-- 🔐 Interested in cybersecurity and digital safety
-- 🌱 Currently improving my skills in React, Spring Boot, Python, and AI
-- 🚀 Passionate about building practical and user-friendly applications
-- 🤝 Open to collaboration, internships, and learning opportunities
-- 📫 Feel free to connect with me through my social links above
-<br clear="right"/>
 
 
 
