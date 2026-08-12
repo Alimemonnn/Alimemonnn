@@ -24,7 +24,22 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
 
+## 🧠 About Me
 
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
+Hi, I'm **Muhammad Ali** — a Computer Science student and aspiring Full Stack Developer from Pakistan. I love building practical software that solves real problems, from web apps to desktop tools. And yes, I occasionally break things in the name of cybersecurity research.
+
+- 💻 **CS Student** at [Your University Name]
+- 🌱 Currently leveling up in **React**, **Spring Boot**, **Python**, and **AI**
+- 🔐 Passionate about **cybersecurity** and digital safety
+- 🚀 Building practical, user-friendly applications
+- 🤝 Open to **internships**, collaborations, and learning opportunities
+- 📫 Let's connect — links above!
+
+<br clear="right"/>
+
+---
 
 
 
