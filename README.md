@@ -32,32 +32,6 @@
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 
-Hi there! I'm *Ali Afzal Chohan* 👋 — a passionate *AI Student* and *Python Developer* from Pakistan, currently in my *2nd year of Bachelor's in Artificial Intelligence* at Aror University of Art, Architecture, Design & Heritage, Sukkur. I'm on a mission to become a skilled *AI Engineer*, specializing in Machine Learning, Deep Learning, Generative AI, and Computer Vision .
-
-<br/>
-
-- 🔭 Passionate *AI Student* & *Python Developer*
-- 🌱 Learning *Machine Learning, **Deep Learning* & *Generative AI*
-- 👁️ Interested in *Computer Vision*
-- 🛠️ Building real-world *AI Projects*
-- 💼 Currently interning as an *AI Intern at UBL*
-- 🤝 Open to *AI/ML Internship Opportunities*
-- 💡 Love solving real-world problems using *AI*
-- 📚 Believe in *continuous learning*
-
-<br clear="right"/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-
-
-
-
-
-
-
-## 👨‍💻 About Me
-
 Hi, I'm **Muhammad Ali**, an aspiring Full Stack Developer and technology enthusiast from Pakistan. I enjoy building practical software solutions, exploring modern technologies, and developing projects that solve real-world problems.
 
 My interests include web development, desktop applications, cybersecurity, artificial intelligence, and open-source collaboration. I am continuously improving my programming skills by working on academic, personal, and hackathon projects.
@@ -68,6 +42,9 @@ My interests include web development, desktop applications, cybersecurity, artif
 - 🚀 Passionate about building practical and user-friendly applications
 - 🤝 Open to collaboration, internships, and learning opportunities
 - 📫 Feel free to connect with me through my social links above
+<br clear="right"/>
+
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
 
