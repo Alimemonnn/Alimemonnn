@@ -3,6 +3,7 @@
         <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Muhammad+Ali!;Full+Stack+Developer;Open+Source+Enthusiast&font=Fira%20Code&center=true&width=640&height=45&color=ff79c6&vCenter=true&pause=1000&size=30" alt="Typing introduction" />
     </a>
 </p>
+
 <!-- Social Links -->
 <p align="center">
     <a href="https://www.linkedin.com/in/alimemonn/">
