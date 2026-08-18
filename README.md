@@ -111,35 +111,6 @@ My interests include web development, desktop applications, cybersecurity, artif
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
 
-## 📊 GitHub Statistics
-
-<p align="center">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Alimemonnn&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a" alt="GitHub streak statistics">
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats-ten-olive-80.vercel.app/api/top-langs/?username=Alimemonnn&theme=omni&include_all_commits=true&count_private=true&hide_border=true&layout=donut&custom_title=Muhammad%20Ali's%20Most%20Used%20Languages&text_color=e8df7a" width=" Forty percent" alt="Most used languages">
-    <img src="https://github-readme-stats-ten-olive-80.vercel.app/api?username=Alimemonnn&show_icons=true&line_height=30&rank_icon=github&theme=omni&hide_border=true&text_color=e8df7a" alt="GitHub statistics">
-</p>
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alimemonnn&theme=omni" width="32%" alt="Repositories per language">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Alimemonnn&theme=omni" width="32%" alt="Most used commit language">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alimemonnn&theme=omni&utcOffset=+5" width="32%" alt="Productive time">
-</p>
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alimemonnn&theme=omni" width="100%" alt="GitHub profile details">
-</p>
-
-<p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alimemonnn&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a" width="100%" alt="GitHub activity graph">
-</p>
-
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
-
 ## 🐍 My Contributions Snake
 
 <p align="center">
