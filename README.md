@@ -105,17 +105,6 @@ Hi, I'm **Muhammad Ali** — an Artificial Intelligence student and aspiring Ful
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider">
 
-## 📊 Analytics & Activity
-
-<div align="center">
-
-  <p>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alimemonnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff79c6&icon_color=4F8EF7&text_color=a9b1d6" width="48%" alt="GitHub Stats" />
-    &nbsp;
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alimemonnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff79c6&text_color=a9b1d6" width="47%" alt="Top Languages" />
-  </p>
-
-</div>
 ## 🐍 Contribution Snake
 
 <p align="center">
