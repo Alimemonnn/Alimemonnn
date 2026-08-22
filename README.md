@@ -91,12 +91,16 @@ Hi, I'm **Muhammad Ali** — an Artificial Intelligence student and aspiring Ful
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider">
-## 🏆 GitHub Achievements & Trophies
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider">
+
+## 🏆 Badges & Achievements
 
 <p align="center">
-  <a href="https://github.com/Alimemonnn">
-    <img src="https://my-readme-trophy.vercel.app/?username=Alimemonnn&theme=tokyonight&no-frame=true&no-bg=true&column=7" width="100%" alt="GitHub Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-ff79c6?style=for-the-badge&logo=github&logoColor=white" alt="Contributor" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Developer-Full_Stack-4F8EF7?style=for-the-badge&logo=codeforces&logoColor=white" alt="Full Stack" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-AI_%26_Security-brightgreen?style=for-the-badge&logo=python&logoColor=white" alt="AI & Security" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Divider">
@@ -105,16 +109,10 @@ Hi, I'm **Muhammad Ali** — an Artificial Intelligence student and aspiring Ful
 
 <div align="center">
 
-  <!-- Stats Cards with fallback mirrors -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Alimemonnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff79c6&icon_color=4F8EF7&text_color=a9b1d6" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alimemonnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff79c6&icon_color=4F8EF7&text_color=a9b1d6" width="48%" alt="GitHub Stats" />
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alimemonnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff79c6&text_color=a9b1d6" width="47%" alt="Top Languages" />
-  </p>
-
-  <!-- Streak Stats -->
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alimemonnn&theme=tokyonight&hide_border=true&background=1a1b27&stroke=ff79c6&ring=4F8EF7&fire=ff79c6&currStreakLabel=ff79c6&sideLabels=a9b1d6&currStreakNum=ffffff&sideNums=ffffff&dates=565f89" width="70%" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alimemonnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff79c6&text_color=a9b1d6" width="47%" alt="Top Languages" />
   </p>
 
 </div>
