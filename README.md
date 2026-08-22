@@ -4,7 +4,6 @@
     </a>
 </p>
 
-
 <!-- Social Links -->
 <p align="center">
     <a href="https://www.linkedin.com/in/alimemonn/">
@@ -24,6 +23,13 @@
     </a>
 </p>
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Alimemonnn&label=Profile+Views&color=ff79c6&style=for-the-badge" alt="Profile Views" />
+    &nbsp;
+    <img src="https://img.shields.io/github/followers/Alimemonnn?label=Followers&style=for-the-badge&color=4F8EF7&logo=github" alt="Followers" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" alt="Open to Work" />
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
 
@@ -40,15 +46,11 @@ My interests include web development, desktop applications, cybersecurity, artif
 - 🚀 Building practical, user-friendly applications
 - 🤝 Open to **internships**, collaborations, and learning opportunities
 - 📫 Let's connect — links above!
+- 🔧 Currently building: **Steam Game Finder** — a live Steam storefront clone in Python & Flask
 
 <br clear="right"/>
 
-
-
-
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
-
 
 ## 🚀 Featured Projects
 
@@ -57,18 +59,16 @@ My interests include web development, desktop applications, cybersecurity, artif
 | 🏆 Project | 📋 Description | 🛠️ Tech Stack | 🔗 Links |
 |:---:|:---|:---:|:---:|
 | **CyberAware** | An interactive cybersecurity awareness platform built during a hackathon. It educates users about online threats, phishing detection, and digital safety best practices. | `HTML` `CSS` `JavaScript` `Python` | [![Live](https://img.shields.io/badge/Live-4F8EF7?style=flat-square&logo=vercel&logoColor=white)](https://cyberaware-mauve.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alimemonnn/CyberAware) |
+| **Steam Game Finder** | A real-time Steam storefront clone that searches the live Steam catalog, shows prices, ratings & discounts, lets you build a personal shortlist and export it to CSV. | `Python` `Flask` `Steam API` | [![Live](https://img.shields.io/badge/Live-4F8EF7?style=flat-square&logo=vercel&logoColor=white)](https://steam-game-finder-software.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alimemonnn/Steam_Game_Finder_Software) |
 | **Website Blocker System** | A cross-platform productivity tool built during PITP at Sukkur IBA. It blocks distracting websites at the system level through the hosts file and includes SHA-256 password protection with a dark-themed Tkinter interface. | `Python` `Tkinter` `SHA-256` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alimemonnn/Website-Blocker-System) |
 | **Campus Bite** | A food delivery platform designed for university students and hostel residents to access home-cooked meals conveniently. It was developed as a semester final project using Java and object-oriented programming. | `Java` `OOP` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Alimemonnn/Campus_Bite) |
 | **University Management System** | A console-based C++ application for managing student and employee records. It supports adding, deleting, and updating records with persistent CSV file storage. | `C++` `CSV` `File I/O` | `Console Application` |
 
 </div>
 
-
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
 
 ## 💻 Tech Stack
-
 
 ### Programming Languages
 
@@ -109,7 +109,39 @@ My interests include web development, desktop applications, cybersecurity, artif
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
 
+## 🏆 GitHub Profile Trophy
+
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Alimemonnn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
+
+## 📊 GitHub Statistics
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alimemonnn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff79c6&icon_color=4F8EF7&text_color=a9b1d6&rank_icon=github" width="48%" alt="GitHub Stats" />
+    &nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alimemonnn&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=ff79c6&text_color=a9b1d6" width="47%" alt="Top Languages" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=Alimemonnn&theme=tokyonight&hide_border=true&background=1a1b27&stroke=ff79c6&ring=4F8EF7&fire=ff79c6&currStreakLabel=ff79c6&sideLabels=a9b1d6&currStreakNum=ffffff&sideNums=ffffff&dates=565f89" width="70%" alt="GitHub Streak" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alimemonnn&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=ff79c6&line=4F8EF7&point=ff79c6&area=true&area_color=4F8EF7" width="100%" alt="Activity Graph" />
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
 
@@ -128,7 +160,6 @@ My interests include web development, desktop applications, cybersecurity, artif
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
 
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -142,6 +173,10 @@ My interests include web development, desktop applications, cybersecurity, artif
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" alt="Colored line">
 
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="100%" alt="Random Dev Quote" />
+
+<br>
 
 ```diff
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
@@ -167,7 +202,7 @@ My interests include web development, desktop applications, cybersecurity, artif
 
 <br>
 
-*“The expert in anything was once a beginner.”*
+*"The expert in anything was once a beginner."*
 
 <br>
 
