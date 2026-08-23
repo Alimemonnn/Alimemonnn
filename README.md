@@ -1,5 +1,6 @@
 <div align="center">
 
+  
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,50:ff79c6,100:1a1b27&height=200&section=header&text=Muhammad%20Ali&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header Banner" />
 
